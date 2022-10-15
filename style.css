@@ -63,3 +63,11 @@ align-items: center;
 .hackercode p{
     margin: 10px;
 }
+
+#victim{
+border: 0px solid;
+background: transparent;
+  margin: 0px 10px;
+  color: lime;
+  outline: none;
+}
