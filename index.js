@@ -26,7 +26,7 @@ while (user == null || user == "") {
   }
 }
 
-const namestore = victim.addEventListener("keydown", (event) => {
+ victim.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
     setTimeout(() => {
       victim.style.color = "red";
